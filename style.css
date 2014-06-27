@@ -1,0 +1,95 @@
+#wrapper{
+  background-color: #FFF;
+  box-shadow: 5px 5px 5px #474747;
+  margin: 0 auto;
+  width: 80%;
+}
+
+#heading{
+  background-color: #CCC;	
+  color: #FFF;
+  height: 25px;
+  margin-top: 75px;
+  padding: 15px;
+}
+
+#nav{
+  background-image: url(navbg.jpg);
+  background-position: center;
+  float: left;
+  height: 220px;
+  text-align: center;
+  margin: 40px 40px 20px 40px;;
+  padding: 5px;
+  width: 160px; 
+} 
+
+.navline{
+  background-color: #000;
+  color: #000;
+  margin: 5px;
+  padding: 0;
+  width: 140px;
+}
+
+.subheading{
+  text-align: center;
+}
+
+body{
+  background-image: linear-gradient(to right, #474747, #FFF);
+}
+
+h1{
+  background-image: url(bg.jpg);
+  height: 200px;
+  margin: 0;
+  padding: 0;
+}
+
+hr{
+  background-color: purple;
+  color: black;
+  margin: 0;
+  padding: 2px;
+}
+
+span{
+  float: right;
+  font-family: "acta-poster-swashes",sans-serif;
+  font-size: 47px;
+  position: relative;
+  top: 147px;
+  left: -5px;
+}
+
+article{
+  margin: 40px;
+}
+
+ul{
+  padding: 0;
+}
+
+li{
+  list-style-type: none;
+  font-weight: bold;
+  padding: 0;
+  margin: 7px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:link{
+  color: black;
+}
+
+a:hover{
+  color: white;
+}
+
+footer{
+  text-align: center;
+}
