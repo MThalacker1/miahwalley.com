@@ -94,5 +94,14 @@ a:visited{
   color: black;
 }
 footer{
+  background-color: #CCC;
+  height: 75px;
+  margin: 20px 0 0 0;
+  padding: 20px;
   text-align: center;
+}
+/*Social Page*/
+
+.twitter-timeline{
+  box-shadow: 0 0 10px black;
 }
