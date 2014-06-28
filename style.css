@@ -90,6 +90,9 @@ a:hover{
   color: white;
 }
 
+a:visited{
+  color: black;
+}
 footer{
   text-align: center;
 }
